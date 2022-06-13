@@ -18,7 +18,7 @@ body{
     padding: 10px;
 }
 
-/* ----- ESTILOS HEADER PRINCIPAL ---------- */
+/* ----- Header---------- */
 
 .header1{
     display: flex;
@@ -77,7 +77,7 @@ ul{
     margin-bottom: 15px;
 }
 
-/* ------------- Menu de hamburguesa ---------- */
+/* ------------- Burger menu ---------- */
 
 .burger-menu{
     display: flex;
@@ -91,7 +91,7 @@ ul{
     color: #fff;
 }
 
-/* --------- SECCIÓN MAIN --------------- */
+/* --------- Main Section --------------- */
 
 .main{
     width: 90%;
@@ -165,7 +165,7 @@ ul{
 
 
 
-/* ------------- TIPOGRAFIA --------------- */
+/* ------------- Font --------------- */
 
 h3{
     font-size: 24px;
@@ -191,7 +191,7 @@ section{
     color: #39b54a;
 }
 
-/* ------- Pie de pagina ---------- */
+/* ------- Footer ---------- */
 
 footer{
     margin-top: 70px;
@@ -213,6 +213,18 @@ footer{
 .fa-user-shield{
     margin-bottom: 10px;
     color: #1259c3;
+}
+
+.fa-credit-card:hover{
+    color:grey;
+}
+
+.fa-gift:hover{
+    color: grey;
+}
+
+.fa-user-shield:hover{
+    color:grey;
 }
 
 .info{
